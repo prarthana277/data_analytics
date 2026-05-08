@@ -1,0 +1,6 @@
+review_score,sentiment,order_count,avg_delay_days,avg_processing_days
+1,Negative,9351,-4.03,3.77
+2,Negative,2920,-8.66,3.07
+3,Neutral,7916,-10.76,2.63
+4,Positive,18894,-12.38,2.29
+5,Positive,56743,-13.38,1.96
